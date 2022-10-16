@@ -1,0 +1,208 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "Title": "Avatar",
+      "Trailer": "https://www.youtube.com/watch?v=CpXJHWSXJW0&ab_channel=CineFantasia",
+      "Released": "18 Dec 2009",
+      "Director": "James Cameron",
+      "Poster": "https://i.etsystatic.com/27089413/r/il/58d4b8/2843327847/il_570xN.2843327847_paoy.jpg",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 2,
+      "Title": "I Am Legend",
+      "Trailer": "https://www.youtube.com/watch?v=TXQ7kRnFXS4&t=11s&ab_channel=TERRORLAND-TierraDeTerror-",
+
+      "Released": "14 Dec 2007",
+      "Runtime": "101 min",
+
+      "Director": "Francis Lawrence",
+      "Poster": "https://flxt.tmsimg.com/assets/p170977_p_v7_ae.jpg",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 3,
+      "Title": "300",
+      "Trailer": "https://www.youtube.com/watch?v=IRdjqmt5460&t=2s&ab_channel=Tr%C3%A1ilersconDoblajeEspa%C3%B1olLatinobySoldierBoy",
+      "Released": "09 Mar 2007",
+      "Runtime": "117 min",
+      "Director": "Zack Snyder",
+      "Poster": "https://img.elo7.com.br/product/original/264D655/big-poster-filme-300-lo001-tamanho-90x60-cm-presente-nerd.jpg",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 4,
+      "Title": "The Avengers",
+      "Trailer": "https://www.youtube.com/watch?v=yNXfOOL8824&ab_channel=MarvelLatinoam%C3%A9ricaOficial",
+
+      "Released": "04 May 2012",
+      "Runtime": "143 min",
+
+      "Director": "Joss Whedon",
+
+      "Poster": "https://www.themoviedb.org/t/p/original/qMxAmzGQO722q0UlssCOPhrXmvX.jpg",
+
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 5,
+      "Title": "The Wolf of Wall Street",
+      "Trailer": "https://www.youtube.com/watch?v=PaAvUOXUohk&ab_channel=DiamondFilmsLatam",
+
+      "Released": "25 Dec 2013",
+      "Runtime": "180 min",
+
+      "Director": "Martin Scorsese",
+
+      "Poster": "https://cdn.shopify.com/s/files/1/0747/3829/products/mHP0138_1024x1024.jpeg?v=1571444282",
+
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 6,
+      "Title": "Interstellar",
+      "Trailer": "https://www.youtube.com/watch?v=LYS2O1nl9iM&ab_channel=WarnerBros.PicturesLatinoam%C3%A9rica",
+
+      "Released": "07 Nov 2014",
+      "Runtime": "169 min",
+
+      "Director": "Christopher Nolan",
+
+      "Poster": "https://www.mauvais-genres.com/19056-large_default/interstellar-french-movie-poster-15x21-2014-christopher-nolan-matthew-mcconaughey.jpg",
+
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 7,
+      "Title": "Game of Thrones",
+      "Trailer": "https://www.youtube.com/watch?v=9bwcu6rewSY&ab_channel=HBOLatino",
+
+      "Released": "17 Apr 2011",
+      "Runtime": "56 min",
+
+      "Director": "N/A",
+
+      "Awards": "Won 1 Golden Globe. Another 185 wins & 334 nominations.",
+      "Poster": "https://i.pinimg.com/originals/ac/4f/fd/ac4ffd8309980a091dd1dc57abe908b4.jpg",
+
+      "Type": "series",
+
+      "Response": "True"
+    },
+    {
+      "id": 8,
+      "Title": "Vikings",
+      "Trailer": "https://www.youtube.com/watch?v=ah1B1eZfvz0&ab_channel=criollogameplay",
+      "Released": "03 Mar 2013",
+      "Runtime": "44 min",
+      "Director": "N/A",
+      "Poster": "https://http2.mlstatic.com/D_NQ_NP_957617-MLA32455456354_102019-O.jpg",
+      "Type": "series",
+      "Response": "True"
+    },
+    {
+      "id": 9,
+      "Title": "Gotham",
+      "Trailer": "https://www.youtube.com/watch?v=VwOPA2upeCA&ab_channel=IGN",
+
+      "Released": "01 Aug 2014",
+      "Runtime": "42 min",
+
+      "Director": "N/A",
+
+      "Awards": "Nominated for 4 Primetime Emmys. Another 3 wins & 22 nominations.",
+      "Poster": "https://i.pinimg.com/originals/75/d6/ed/75d6edb1f5853230c8ce6b3604a9966c.png",
+
+      "Type": "series",
+
+      "Response": "True"
+    },
+    {
+      "id": 10,
+      "Title": "Power",
+      "Trailer": "https://www.youtube.com/watch?v=Z8xuGLCuu-k&ab_channel=TutuqaTRAILERS",
+      "Released": "N/A",
+      "Runtime": "50 min",
+      "Director": "N/A",
+      "Poster": "https://pbs.twimg.com/media/FDyeKSsUUAYvO7C.jpg:large",
+      "Type": "series",
+      "Response": "True"
+    },
+    {
+      "id": 11,
+      "Title": "Narcos",
+      "Trailer": "https://www.youtube.com/watch?v=VNP2znpZvUE&ab_channel=TopSeriesyPel%C3%ADculas",
+      "Released": "28 Aug 2015",
+      "Runtime": "49 min",
+      "Director": "N/A",
+      "Poster": "https://static.posters.cz/image/750/posters/narcos-blow-business-i31851.jpg",
+      "Type": "series",
+      "Response": "True"
+    },
+    {
+      "id": 12,
+      "Title": "Breaking Bad",
+      "Trailer": "https://www.youtube.com/watch?v=rJnjxvgvkBM&ab_channel=AbrahamCortes",
+      "Released": "20 Jan 2008",
+      "Runtime": "49 min",
+      "Director": "N/A",
+      "Poster": "https://http2.mlstatic.com/D_NQ_NP_735012-MLA32767825809_112019-O.jpg",
+      "Type": "series",
+      "Response": "True"
+    },
+    {
+      "id": 13,
+      "Title": "Doctor Strange",
+      "Trailer": "https://www.youtube.com/watch?v=pLZH1rquIrg&ab_channel=Tr%C3%A1ilersconDoblajeEspa%C3%B1olLatinobySoldierBoy",
+      "Released": "04 Nov 2016",
+      "Runtime": "N/A",
+      "Director": "Scott Derrickson",
+      "Poster": "https://i0.wp.com/cinemedios.com/wp-content/uploads/2016/09/doctor-strange-imax-poster.jpg?ssl=1",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 14,
+      "Title": "Rogue One: A Star Wars Story",
+      "Trailer": "https://www.youtube.com/watch?v=MjXKp-mhKYA&ab_channel=StarWarsEspa%C3%B1a",
+      "Released": "16 Dec 2016",
+      "Runtime": "N/A",
+      "Director": "Gareth Edwards",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyMzI2OTA3OF5BMl5BanBnXkFtZTgwNDg5NjQ0OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 15,
+      "Title": "Assassin's Creed",
+      "Trailer": "https://www.youtube.com/watch?v=7m95PIpJ8xo&ab_channel=TrailersInSpanish",
+      "Released": "21 Dec 2016",
+      "Runtime": "N/A",
+      "Director": "Justin Kurzel",
+      "Poster": "https://sm.ign.com/ign_es/screenshot/default/17mech-ac-intl1sheet-campb-spain_5bz5.jpg",
+      "Type": "movie",
+      "Response": "True"
+    },
+    {
+      "id": 16,
+      "Title": "Luke Cage",
+      "Trailer": "https://www.youtube.com/watch?v=slugBUJLTxs&ab_channel=Tr%C3%A1ilersconDoblajeEspa%C3%B1olLatinobySoldierBoy",
+      "Released": "30 Sep 2016",
+      "Runtime": "55 min",
+      "Director": "N/A",
+      "Poster": "https://sm.ign.com/ign_es/screenshot/default/16-31-2001-674x1024_bqsw.jpg",
+      "Type": "series",
+      "Response": "True"
+    }
+  ],
+  "profile": {
+    "name": "Pelis"
+  }
+}
